@@ -447,4 +447,4 @@ If you're migrating from the PowerShell DSC module
 [06]: /windows/package-manager/configuration/
 [07]: https://github.com/microsoft/winget-cli/releases
 [08]: https://github.com/PowerShell/DSC/releases
-[09]: /powershell/dsc/reference/cli/?view=dsc-3.0&preserve-view=true#environment-variables
+[09]: /powershell/dsc/concepts/environment-variables/?view=dsc-3.0&preserve-view=true
